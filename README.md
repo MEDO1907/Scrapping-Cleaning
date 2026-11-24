@@ -13,7 +13,7 @@ files automatically and save the cleaned versions in a separate folder.
 ## Project Structure
 
 ``` text
-Project/
+Scrapping-Cleaning/
 │
 ├── Scrapping/
 │   ├── Scrapping.py
